@@ -1,16 +1,16 @@
-### Hi there 👋
+## 📖 About me
 
-<!--
-**arnaudperalta/arnaudperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software master's degree student, I spend most of time developping small projects about the differents aspects of computer science. I enjoy developping some ideas with Python.
 
-Here are some ideas to get you started:
+### 📚 Topics covered on my GitHub repositories :
+- Game theory
+- Compiler
+- String-searching algorithm
+- Genetic algorithm
+- Linux structures manipulations (shm, pipe, thread, process)
+- Financial analysis (day-trading bot in a private repository)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Links :
+- [Stack Overflow](https://stackoverflow.com/users/9057499/arnaud-peralta)
+- [LinkedIn](https://www.linkedin.com/in/arnaud-peralta-0b5625154/)
