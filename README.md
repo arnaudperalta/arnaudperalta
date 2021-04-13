@@ -1,6 +1,8 @@
 ## 📖 About me
 
-Software master's degree student, I spend most of time developping small projects about the differents aspects of computer science. I enjoy developping some ideas with Python.
+Software master's degree student, I spend most of time developping small projects about the differents aspects of computer science. 
+
+I enjoy developping some ideas with Python.
 
 ### 📚 Topics covered on my GitHub repositories :
 - Game theory
