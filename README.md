@@ -2,8 +2,6 @@
 
 Software master's degree student, I spend most of time developing small projects about the different aspects of computer science. 
 
-I enjoy developing some ideas with Python.
-
 ### 📚 Topics covered on my GitHub repositories :
 - Game theory
 - Compiler
