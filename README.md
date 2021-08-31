@@ -1,6 +1,6 @@
 ## 📖 About me
 
-Software master's degree student, I spend most of time developing small projects about the different aspects of computer science. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnaudperalta)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links :
 - [Stack Overflow](https://stackoverflow.com/users/9057499/arnaud-peralta)
