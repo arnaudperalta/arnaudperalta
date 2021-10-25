@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://www.gilesorr.com/vim/vimjourney/vimages/real_programmers.png)
+![XKCD](https://www.gilesorr.com/vim/vimjourney/vimages/real_programmers.png)
 
 ### 🔗 Links :
 - [Stack Overflow](https://stackoverflow.com/users/9057499/arnaud-peralta)
